@@ -34,27 +34,25 @@ Features that were added over the last 10 years.
 
 
 ### Impostor Syndrome and Individual Competence - Jessica Rose
-"What am i doing here, is is the right thing to do. I'm not good at this, i doesn't belong here!" That is what are brain is doing to us.
+"What am i doing here, is is the right thing to do. I'm not good at this, i don't belong here!" That is what are brain is doing to us.
 Our brains are terrible at self-assessment. This can be very demotivating. 
 > Your brain uses bad data to build worse conclusions that it becomes really attached to: enter impostor syndrome.
 
-If you're getting messages that you're not in a space that belongs to you, you internalize those.
+#### What is technology doing to impostor syndrome? 
+Social media can make it worse. Technology invites us to compare our real lives to someone else's Best Of Hits. On social media is it always the better part of someone.
 
-What is technology doing to impostor syndrome? Social media can make it worse. Technology invites us to compare our real lives to someone else's Best Of Hits.
+##### How can we make it better for others?
+Never tell anyone else they have impostor syndrome. "oh, it's just impostor syndrome".
+- Give positive meaningful and actionable feedback.
+- Talk about your own feelings and fears when you feel comfortable doing so.
+- Fixing it for yourself:
 
-How can we make it better for others?
+Use the positive feedback and assess yourself: You can do that with tests, teaching, writing articles.
+Check in with yourself periodically. Take care of yourself and do the thing that chills you out.
 
-Never tell anyone else they have impostor syndrome. Don't override someone's concerns with just "oh, it's just impostor syndrome".
-Give positive meaningful and actionable feedback.
-Talk about your own feelings and fears when you feel comfortable doing so.
-Fixing it for yourself:
-
-Take on positive feedback and accurately assess yourself: you can outsource the latter (tests, teaching, write articles).
-Interrupt the "oh god they're going to find out" process. Check in with yourself periodically. Take care of yourself and do the thing that chills you out.
 Keep track of what you learn over time, and look back periodically.
-What if impostor syndrome is just your brain telling you in a terrible way that you're actually doing fine?
 
-http://jangosteve.com/post/380926251/no-one-knows-what-theyre-doing
+
 ### A Modern Front-end Workflow - Umar Hansa
 
 ### Caches all the way down - Yoav Weiss
