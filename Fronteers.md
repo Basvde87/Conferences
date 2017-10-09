@@ -1,1 +1,2 @@
 # FronteersConf 2017
+Here are my notes of the 10th conference of Fronteers. It's the 5th conference i was attend. It was a good conference with inspiring talks, from emoji to CSS Animation and from imposter syndrome to WebVR.
